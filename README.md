@@ -1,4 +1,4 @@
 # sample_project
 
 
-this is a sample projecr
+this is a sample project
